@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+langchain
+chromadb
+sentence-transformers
+torch
